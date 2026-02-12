@@ -1,0 +1,6 @@
+# for Sae-Jin's use of marimo and uv to build the notebook
+uv.lock
+.venv/*
+pyproject.toml
+.python-version
+main.py
