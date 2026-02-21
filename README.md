@@ -1,7 +1,8 @@
 # Machine Learning Project 1 (Pavi, Saejin, Timothy, Jonathan, David, Lydia, Kaitlin, Isabelle)
 
 # About:
-The goal of the first project is to do some wrangling, EDA, and visualization, and generate sequences of values. We will focus on:
+
+-- The goal of the first project is to do some wrangling, EDA, and visualization, and generate sequences of values. We will focus on:
 
 -CDC National Health and Nutritional Examination Survey (NHANES, 1999-2000): https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=1999
 -CDC Linked Mortality File (LMF, 1999-2000): https://www.cdc.gov/nchs/data-linkage/mortality-public.html
