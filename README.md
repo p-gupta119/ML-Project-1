@@ -1,6 +1,6 @@
 # Machine Learning Project 1
 
-**Team:** Pavi Gupta (tgz5gw), Saejin Park (ygb9pf), Timothy Lee (ghk5cd), Jonathan Lee (kkg2qc), David Kim (rcy3cs), Lydia Lee (yzg7bf), Kaitlin Luu (byw7uh), Isabelle Lee (vjm3mp)
+**Team:** Pavi Gupta (tgz5gw), Saejin Moon (rhn9qs), Timothy Lee (ghk5cd), Jonathan Lee (kkg2qc), David Kim (rcy3cs), Lydia Lee (yzg7bf), Kaitlin Luu (byw7uh), Isabelle Lee (vjm3mp)
 
 ## About
 The goal of the first project is to do some wrangling, EDA, and visualization, and generate sequences of values. We will focus on:
