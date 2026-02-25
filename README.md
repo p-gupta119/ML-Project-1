@@ -12,7 +12,7 @@ NHANES is a rich panel dataset on health and behavior, collected bi-yearly from 
 
 The purpose of the project is to use NN to predict who dies (hard or soft classification) and how long they live (regression).
 
-# MAP
+## MAP
 
 ```text
 ML-Project-1/
