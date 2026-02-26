@@ -27,7 +27,7 @@ ML-Project-1/
 │   ├── lmf_parsed.csv                     
 │   └── public-use-linked-mortality-file...
 │
-├── public/                                - Output for variables (Day 1)
+├── public/                                - Codebooks for variables (Day 1)
 │   ├── codebook1.png                      - Ridageex (Exam Age in Months)
 │   ├── codebook2.png                      - DMDEDUC2 (Education Level)
 │   ├── codebook3.png                      - DMDMARTL (Martial Status)
@@ -41,7 +41,7 @@ ML-Project-1/
 ├── day1_wrangling_eda.py                  - Basic EDA for Day 1
 ├── get_data.py                           
 ├── histograms.png                         - Saved histogram figure output (Basic EDA for Day 1)
-├── nb.ipynb                               - Main EDA for day 1
-├── nb.py                                  - Script/Code for notebook
-├── project_1_SAQresponses.ipynb           - Solution to Answers for Project 1
+├── nb.ipynb                               - Jupyter notebook converted from nb.py for day 1 EDA (for easier viewing); Final product for all code/visualizations for day 1 responses
+├── nb.py                                  - Marimo notebook for day 1 EDA
+├── project_1_SAQresponses.ipynb           - Answers for Project 1
 └── project_1_bsds.ipynb                   - Instructions to Project 1

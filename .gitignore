@@ -5,3 +5,4 @@ pyproject.toml
 .python-version
 main.py
 __marimo__/*
+.ipynb_checkpoints/*
