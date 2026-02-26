@@ -16,7 +16,7 @@ The purpose of the project is to use NN to predict who dies (hard or soft classi
 
 ```text
 ML-Project-1/
-├── .ipynb_checkpoints/                  
+├── .ipynb_checkpoints/             
 │   ├── nb-checkpoint.ipynb                - Day 1 EDAs
 │   ├── part-2-question4.ipynb             - Day 2 Part 2 Question 4 (kNN regressor)
 │   └── part-2.ipynb                       - Day 2 Part 2 Question 3 (kNN classification)
